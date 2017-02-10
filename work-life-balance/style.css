@@ -27,7 +27,7 @@ body {
 }
 
 .switch label {
-  cursor: pointer;
+  /*cursor: pointer;*/
 }
 
 .switch label input[type=checkbox] {
